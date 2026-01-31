@@ -900,8 +900,8 @@ export const calendarEvents = [
   {
     title: "Lipalo",
     allDay: false,
-    start: new Date(2024, 7, 12, 8, 0),
-    end: new Date(2024, 7, 12, 8, 45),
+    start: new Date(2026, 1, 15, 8, 0),
+    end: new Date(2026, 1, 15, 8, 45),
   },
   {
     title: "Sesotho",
